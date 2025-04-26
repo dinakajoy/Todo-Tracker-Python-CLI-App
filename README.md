@@ -8,7 +8,7 @@ A simple command-line todo list tracker to log and manage tasks. The data is per
 
 - **Add new task**
 - **View all tasks**
-- **View completed tasks** 
+- **View completed tasks**
 - **View pending tasks**
 - **Update task**
 - **Delete task**
