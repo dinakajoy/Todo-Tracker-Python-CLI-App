@@ -1,0 +1,14 @@
+[
+    {
+        "description": "My first task",
+        "completed": true
+    },
+    {
+        "description": "New task 2",
+        "completed": true
+    },
+    {
+        "description": "Read",
+        "completed": false
+    }
+]
